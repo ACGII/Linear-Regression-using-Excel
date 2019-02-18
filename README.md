@@ -1,2 +1,4 @@
 # Linear-Regression-using-Excel
-Statistical Analysis using Excel Spreadsheets
+## Coursera Business Statistics and Analysis
+## Rice University
+Statistical Analysis using Excel Spreadsheets for Housing Price Data
